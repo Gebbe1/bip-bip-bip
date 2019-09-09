@@ -1,0 +1,28 @@
+h1 {text-align: center;
+color: tomato
+}
+li {text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.bip {
+  text-transform: full-width;
+  font-family: serif;
+}
+.bilde {
+  width: 300px;
+  border-radius: 50%;
+  border-color: tomato;
+  border-width: medium;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+body {
+  background-color: rgb(255, 255, 128);
+  font-family: sans-serif;
+}
